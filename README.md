@@ -1,5 +1,5 @@
-<h1 align="center">👋 Salut moi c'est obscur</h1>
-<h3 align="center">💻 Un jeune développeur en tout genre</h3>
+<h1 align="center">👋 Salut moi c'est saw</h1>
+<h3 align="center">💻 Un jeune développeur en tout genre !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337obscur&label=Profile%20views&color=0e75b6&style=flat" alt="1337obscur" /> </p>
 
